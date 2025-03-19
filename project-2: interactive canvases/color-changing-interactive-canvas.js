@@ -1,7 +1,10 @@
 let r = 100;
 let g = 100;
 let b = 100;
-const deltaB = 5;
+
+let deltaR = 1;
+let deltaG = 1;
+let deltaB = 1;
 
 function setup() {
   createCanvas(400, 400);
@@ -9,10 +12,10 @@ function setup() {
 
 function draw() {
   background(r, g, b);
-  drawingChanges();
+  colorChanges();
 }
 
-function drawingChanges() {
+function colorChanges() {
   r = mouseX;
   g = mouseY;
   if (b => 220) {
