@@ -1,10 +1,9 @@
 # Grid Art
 
 
-![](project-1/images-of-generated-art/lecture-sketch-1-unedited.png)
+![random color pattern](project-1/images-of-generated-art/lecture-sketch-1-unedited.png)
 
 
-![](project-1/images-of-generated-art/first-sketch-2.png)
+![blue-green generated pattern](project-1/images-of-generated-art/first-sketch-2.png)
 
-
-See project-1
+![screen shot of the interactive landscape](InteractiveLandscape/images/interactiveLandscape.png)
